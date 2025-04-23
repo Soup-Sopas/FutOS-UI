@@ -12,13 +12,6 @@
 - **Integración de minijuegos**, por ejemplo `pong.py`.
 - **Estilización personalizada** con temas y configuraciones para botones, etiquetas y entradas.
 
-## 📂 Estructura esperada
-
-El sistema espera una ruta base de archivos en:
-```
-/Users/aquiles/PycharmProjects/ShellUI/user
-```
-
 
 ## 📦 Requisitos
 
